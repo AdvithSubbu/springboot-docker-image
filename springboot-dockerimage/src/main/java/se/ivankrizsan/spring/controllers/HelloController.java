@@ -23,7 +23,7 @@ public class HelloController {
         final Model inModel) {
         final StringBuilder theMessageBuilder = new StringBuilder();
         theMessageBuilder
-            .append("Hello3 ")
+            .append("Hello4 ")
             .append(inName)
             .append(", the time is now ")
             .append(new Date().toString())
